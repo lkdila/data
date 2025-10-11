@@ -1,0 +1,23 @@
+{
+  "CALL_REJECT": "off",
+  "STATUS_REPLY_AI": "off",
+  "PRESENCE": "off",
+  "BUTTON": "on",
+  "ALLOWS_ONLINE": "off",
+  "STATUS_SAVE": "off",
+  "PREFIX": ".",
+  "LANGUAGE": "english",
+  "WORK_TYPE": "public",
+  "STATUS_REACT_EMOJI": "❤️",
+  "AUTO_SAVE": "off",
+  "OWNER_NAME": "MONEY HEIST MINI",
+  "OWNER_FROM": "SRI LANKA",
+  "OWNER_AGE": "999+",
+  "ANTI_DELETE": "off",
+  "ANTI_SEND": "from",
+  "ANTI_VIEWONE": "off",
+  "ALIVE_IMG": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/Media/Image/Alive.jpg",
+  "ALIVE_MSG": "❖ *ᴀʟɪᴠᴇ ɴᴏᴡ ᴍᴏɴᴇʏ ʜᴇɪꜱᴛ ᴍᴅ*",
+  "MENU_IMG": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/Media/Image/Menu.jpg",
+  "OWNER_IMG": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/Media/Image/OwnerMenu.jpg"
+}
