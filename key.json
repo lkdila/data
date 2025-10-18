@@ -19,5 +19,7 @@
   "ALIVE_IMG": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/Media/Image/Alive.jpg",
   "ALIVE_MSG": "❖ *ᴀʟɪᴠᴇ ɴᴏᴡ ᴍᴏɴᴇʏ ʜᴇɪꜱᴛ ᴍᴅ*",
   "MENU_IMG": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/Media/Image/Menu.jpg",
-  "OWNER_IMG": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/Media/Image/OwnerMenu.jpg"
+  "OWNER_IMG": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/Media/Image/OwnerMenu.jpg",
+  "STATUS_VIEW": "on",
+  "STATUS_REACT": "on"
 }
