@@ -22,6 +22,6 @@
   "OWNER_IMG": "https://github.com/monetheistmd/WEB_DATABASE/raw/main/Media/Image/OwnerMenu.jpg",
   "STATUS_VIEW": "on",
   "STATUS_REACT": "on",
-  "AUTO_NEWS": "off",
-  "NEWS_JIDS": "off"
+  "AUTO_NEWS": "on",
+  "NEWS_JIDS": "120363402572419699@g.us/120363402837776909@g.us/120363421997325365@newsletter"
 }
