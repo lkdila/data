@@ -1,7 +1,7 @@
 {
   "BotName": "MONEY HEIST MD",
   "Web": "freebots.store",
-  "Api": "aaaasaver-8c1a32b546e8.herokuapp.com",
+  "Api": "main-api-azure.vercel.app",
   "Version": "3.0.1",
   "Platform": "ᴜʙᴜɴᴛᴜ",
   "BotCount": 100,
